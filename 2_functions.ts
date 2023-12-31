@@ -8,7 +8,7 @@ function sum2(a: number, b: number): number {
   return a + b;
 }
 
-// 함수의 옵셔널 파라미터
+// 함수의 옵셔널 파라미터 (?)
 function optional(a: string, b?:string, c?:string): void {
 }
 optional('hello');
